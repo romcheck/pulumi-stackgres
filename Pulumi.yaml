@@ -1,0 +1,3 @@
+name: stackgres
+runtime: nodejs
+description: A minimal Kubernetes TypeScript Pulumi program
